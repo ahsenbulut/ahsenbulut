@@ -6,6 +6,7 @@ __I'm a Computer Engineering student who is passionate about learning and growin
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ahsenbulut/)
 
 ## 🚀 Languages and Tools  
+[![My Skills](https://skillicons.dev/icons?i=c,python,java,ts,js,nodejs,react,nextjs,nuxtjs,flutter,dart,postgres,redis,spring,firebase,docker,git,postman)](https://skillicons.dev) 
 
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
